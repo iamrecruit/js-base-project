@@ -1,6 +1,6 @@
 # js基础项目
 
-该项目主要用于 An Amazing Project
+该项目主要用于 An outstanding Project
 
 1. 当我们需要做写一些简单的小dojo的时候。
 2. 当我们要写几行代码看看效果的时候.
